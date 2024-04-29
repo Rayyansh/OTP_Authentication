@@ -1,0 +1,5 @@
+djangorestframework
+django
+Pillow
+djangorestframework-simplejwt
+requests
